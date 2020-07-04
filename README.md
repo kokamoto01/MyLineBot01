@@ -27,4 +27,4 @@
 <p>https://qiita.com/clustfe/items/f9ff2b12da7a501197f8</p>
 
 ## アプリの詳細
-<p>https://trunk.fm/resumes/90485199/portfolios/2243</p>
+<p>https://docs.google.com/presentation/d/1JpH1_Yk7HSxIih1J_9eS6exoarT6WZUcIg6MaFcLvgk/edit?usp=sharing</p>
